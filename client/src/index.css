@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    scrollbar-width: none;
+   
+}
+
+body {
+    background-color: #f5f5f5;
+}
+
